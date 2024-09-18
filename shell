@@ -1,0 +1,52 @@
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 CompArch % ls
+ls
+DIAGRAM.jpg						lab1
+The C Programming Language (Kernighan Ritchie).pdf
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 CompArch % ls 
+ls 
+DIAGRAM.jpg						lab1
+The C Programming Language (Kernighan Ritchie).pdf
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 CompArch % clear
+clear
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 CompArch % chmod 600 .netrc
+chmod 600 .netrc
+chmod: .netrc: No such file or directory
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 CompArch % cd
+cd
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 ~ % chmod 600 .netrc
+chmod 600 .netrc
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 ~ % ls -1 .netrc
+ls -1 .netrc
+.netrc
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 ~ % chmod 600 .netrc
+chmod 600 .netrc
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 ~ % chmod 600 .netrc
+chmod 600 .netrc
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 ~ % ls -1 .netrc
+ls -1 .netrc
+.netrc
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 ~ % cd Documents/CompArch/lab1
+cd Documents/CompArch/lab1
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 lab1 % ls
+ls
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 lab1 % pwd
+pwd
+/Users/alejandrosedeno/Documents/CompArch/lab1
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 lab1 % git clone https://github.com/utep-cs-systems-courses/f24-corg-project-zero-ALXSED.git
+<clone https://github.com/utep-cs-systems-courses/f24-corg-project-zero-ALXSED.git
+Cloning into 'f24-corg-project-zero-ALXSED'...
+remote: Enumerating objects: 12, done.        
+remote: Counting objects: 100% (12/12), done.        
+remote: Compressing objects: 100% (12/12), done.        
+remote: Total 12 (delta 0), reused 5 (delta 0), pack-reused 0 (from 0)        
+Receiving objects: 100% (12/12), 20.54 KiB | 500.00 KiB/s, done.
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 lab1 % ls
+ls
+f24-corg-project-zero-ALXSED
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 lab1 % cd f24-corg-project-zero-ALXSED/ 
+cd f24-corg-project-zero-ALXSED/ 
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 f24-corg-project-zero-ALXSED % ls
+ls
+11x16font.c	8x12-font.c	Makefile	draw.h		draw_shapes.c
+5x7-font.c	LICENSE		README.md	draw_chars.c	uimain.c
+(base) alejandrosedeno@Alejandros-MacBook-Air-4 f24-corg-project-zero-ALXSED % https://github.com/utep-cs-systems-courses/f24-corg-project-zero-ALXSED.git

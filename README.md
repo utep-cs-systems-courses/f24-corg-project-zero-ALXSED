@@ -58,7 +58,7 @@ The following files are provided for your convenience (but not presently used)
 Please observe the following standard C coding practices:
 - Multiple related functions are defined in the same source file (e.g. draw_shapes.c).  
   Otherwise a project would contain an overwhelming number of files.
-- Type definitions are collected in just a few (in this case one) include file (draw.h).
+- Type definitions are collected in just a few (in this case one) include file (draw.h)
   Please read it.
 - Giant function and variable definitions (e.g. the font bitmap arrays) are stored in their own files. 
   Otherwise the files containing them would be overwhelmingly long.
